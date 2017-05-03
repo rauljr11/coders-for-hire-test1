@@ -1,0 +1,19 @@
+{
+  "name": "coders-for-hire-test-1",
+  "version": "1.0.0",
+  "description": "Test 1 - Basic Web Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~https://github.com/rauljr11/coders-for-hire-test1.git"
+  },
+  "author": "Raul Peremne Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
